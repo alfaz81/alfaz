@@ -6,7 +6,7 @@ function App() {
     <div class="container">
 
 
-    <h1>Hello world</h1>
+    <h1>Hello welcome to my website its still developing.. developed  by Alfaz kaladagi</h1>
     </div>
   )
 }
